@@ -69,7 +69,6 @@ public class hangman {
 					if (currentLetter.isEmpty()) {
 						System.out.println("shits empty");
 						System.out.println();
-						System.out.println();
 						break;
 					}
 
